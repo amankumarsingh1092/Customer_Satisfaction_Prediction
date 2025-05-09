@@ -36,8 +36,7 @@ This project aims to predict customer satisfaction ratings using a dataset of cu
 
 ## 🔗 Author
 **Aman Kumar Singh**  
-•![image](https://github.com/user-attachments/assets/61f68986-6797-42f3-b0ba-cee52555b3da)
- www.linkedin.com/in/aman-kumar-singh-71a090206
+• www.linkedin.com/in/aman-kumar-singh-71a090206
 • aksingh1652@gmail.com
 
 
