@@ -3,13 +3,14 @@
 This project aims to predict customer satisfaction ratings using a dataset of customer support tickets for various tech products. It involves data cleaning, exploratory data analysis (EDA), feature engineering, and training a machine learning model (Random Forest Classifier) in Python.
 # 📁 Dataset
 - "customer_support_tickets.csv" includes features such as:
-  - Ticket Type
+  - Ticket ID
+  - Customer (Name, Email, Age, Gender)
   - Product Purchased
-  - Customer Age & Gender
-  - Ticket Priority
-  - Channel
+  - Date of Purchase
+  - Ticket (Type, Subject, Description, Status, Resolution, Priority, Channel)
+  - First Response Time
   - Time to Resolution
-  - Customer Satisfaction Rating (target variable)
+  - Customer Satisfaction Rating 
 
 # 🔧 Technologies Used
 - Python
