@@ -33,11 +33,8 @@ This project aims to predict customer satisfaction ratings using a dataset of cu
 ## Insights
 - Top dissatisfaction causes include refund and billing issues.
 - High priority and technical issues affect satisfaction the most.
-- Age and product types influence satisfaction levels.
-
-## Author
-**Aman Kumar Singh**  
-• www.linkedin.com/in/aman-kumar-singh-71a090206
-• aksingh1652@gmail.com
-
-
+- Age and product types influence satisfaction levels.## Author
+### Author
+- Aman Kumar Singh
+- www.linkedin.com/in/aman-kumar-singh-71a090206
+- aksingh1652@gmail.com
